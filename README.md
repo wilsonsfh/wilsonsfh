@@ -15,16 +15,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
 <br>
 
-**Statistics** <br>
-![Programming languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsfh&layout=compact) <br>
-
-**Connect with me:** <br>
-<a href="https://www.linkedin.com/in/wilsonsfh/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-
-
-
 
 <!--
 **wilsonsfh/wilsonsfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
