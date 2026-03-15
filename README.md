@@ -1,12 +1,12 @@
 ```text
 ****************#==#***++:-+********+==**      Human: Wilson Soon
 ************+##%%###+*+%*+=-+*******+-+**      ----------------------------------------------
-************##%%#*+***%%#%#*#*******+-+**      Languages: English, Mandarin, Japanese (Basic)
-*************%%#+*#+=-+*##%###******+-+**      Languages (Programming): Python, JavaScript, C
-*************%+++-=+*=:..---+*******==+**      Currently working on: CorrectiveRehabApp, CS Fundamentals
-*************+=++--==-....:-********==***      Currently grinding: DSA, DB, Networks, AI tooling (e.g. Claude Code)
-*************+-=======-:...=********=-+**      Hobbies:   guitar, dance, phtogoraphy, nature-rotting
-**************==*=--+=--:..:********::=++
+************##%%#*+***%%#%#*#*******+-+**      Languages (Human):    English, Mandarin, Japanese (Basic)
+*************%%#+*#+=-+*##%###******+-+**      Languages (Computer): Python, JavaScript, TypeScript, C, Java
+*************%+++-=+*=:..---+*******==+**      Currently 
+*************+=++--==-....:-********==***      working on:           CorrectiveRehabApp, cs-fundamentals
+*************+-=======-:...=********=-+**      training:             DSA, DB, Networks, AI tooling (e.g. Claude Code)
+**************==*=--+=--:..:********::=++      Hobbies:              Guitar, dance, phtogoraphy, nature-rotting
 ***************+--+=--==-...*******+::-==
 *****************-==+=--:...++*****=..:--
 *******************+--::::=*+*+****+::===
