@@ -5,7 +5,7 @@
 *************%%#+*#+=-+*##%###******+-+**      Languages (Computer): Python, JavaScript, TypeScript, C, Java
 *************%+++-=+*=:..---+*******==+**      Currently 
 *************+=++--==-....:-********==***      working on:           CorrectiveRehabApp, cs-fundamentals
-*************+-=======-:...=********=-+**      training:             DSA, DB, Networks, AI tooling (e.g. Claude Code)
+*************+-=======-:...=********=-+**      training:             DSA, DB, Networks, AI tools (e.g. Claude Code)
 **************==*=--+=--:..:********::=++      Hobbies:              Guitar, dance, phtogoraphy, nature-rotting
 ***************+--+=--==-...*******+::-==
 *****************-==+=--:...++*****=..:--
