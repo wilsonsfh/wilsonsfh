@@ -4,9 +4,9 @@
 ************##%%#*+***%%#%#*#*******+-+**      Languages (Human):    English, Mandarin, Japanese (Basic)
 *************%%#+*#+=-+*##%###******+-+**      Languages (Computer): Python, JavaScript, TypeScript, C, Java
 *************%+++-=+*=:..---+*******==+**      Currently 
-*************+=++--==-....:-********==***      working on:           CorrectiveRehabApp, cs-fundamentals
+*************+=++--==-....:-********==***      working on:           ClearerToday, CorrectiveRehabApp
 *************+-=======-:...=********=-+**      training:             DSA, DB, Networks, AI tools (e.g. Claude Code)
-**************==*=--+=--:..:********::=++      Hobbies:              Guitar, dance, phtogoraphy, nature-rotting
+**************==*=--+=--:..:********::=++      Hobbies:              Guitar, dance, photography, nature-rotting
 ***************+--+=--==-...*******+::-==
 *****************-==+=--:...++*****=..:--
 *******************+--::::=*+*+****+::===
