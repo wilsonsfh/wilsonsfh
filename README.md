@@ -39,8 +39,8 @@
 <h3>reach me</h3>
 <p><img src="assets/email.svg" width="20" height="20" align="center" alt="Email" />&nbsp;&nbsp;<a href="mailto:wilionsoon2010@gmail.com">wilionsoon2010@gmail.com</a><br />
 <img src="assets/website.svg" width="20" height="20" align="center" alt="Personal website" />&nbsp;&nbsp;<a href="https://portfolio.wilsonsoon.workers.dev/">personal website</a><br />
-<img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp;&nbsp;<a href="https://x.com/wilsonsfh_">X · @wilsonsfh_</a><br />
-<img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wilsonsfh/">linkedin · wilsonsfh</a></p>
+<img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp;&nbsp;<a href="https://x.com/wilsonsfh_">x</a><br />
+<img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wilsonsfh/">linkedin</a></p>
 </td>
 </tr>
 </table>
