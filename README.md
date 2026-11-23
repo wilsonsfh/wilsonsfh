@@ -37,10 +37,10 @@
 <p>here, i build toy projects for things i'm interested in. </p>
 
 <h3>reach me</h3>
-<p><a href="mailto:wilionsoon2010@gmail.com"><img src="assets/email.svg" width="20" height="20" align="center" alt="Email" />&nbsp; wilionsoon2010@gmail.com</a><br />
-<a href="https://portfolio.wilsonsoon.workers.dev/"><img src="assets/website.svg" width="20" height="20" align="center" alt="Personal website" />&nbsp; personal website</a><br />
-<a href="https://x.com/wilsonsfh_"><img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp; X · @wilsonsfh_</a><br />
-<a href="https://www.linkedin.com/in/wilsonsfh/"><img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp; linkedin · wilsonsfh</a></p>
+<p><img src="assets/email.svg" width="20" height="20" align="center" alt="Email" />&nbsp;&nbsp;<a href="mailto:wilionsoon2010@gmail.com">wilionsoon2010@gmail.com</a><br />
+<img src="assets/website.svg" width="20" height="20" align="center" alt="Personal website" />&nbsp;&nbsp;<a href="https://portfolio.wilsonsoon.workers.dev/">personal website</a><br />
+<img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp;&nbsp;<a href="https://x.com/wilsonsfh_">X · @wilsonsfh_</a><br />
+<img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wilsonsfh/">linkedin · wilsonsfh</a></p>
 </td>
 </tr>
 </table>
