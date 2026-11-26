@@ -41,11 +41,10 @@
 <img src="assets/website.svg" width="20" height="20" align="center" alt="Personal website" />&nbsp;&nbsp;<a href="https://portfolio.wilsonsoon.workers.dev/">personal website</a><br />
 <img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp;&nbsp;<a href="https://x.com/wilsonsfh_">x</a><br />
 <img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wilsonsfh/">linkedin</a></p>
+<h3>github liveviewer</h3>
+<a href="https://github.wilsonsoon.workers.dev/"><img src="assets/liveviewer.gif" width="250" alt="A short scroll through my public GitHub repository board" /></a>
 </td>
 </tr>
 </table>
 
 
-### GitHub LiveViewer
-
-Explore my public repositories on the [live repository board](https://github.wilsonsoon.workers.dev/).
