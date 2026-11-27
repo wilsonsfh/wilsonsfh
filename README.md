@@ -36,15 +36,16 @@
 <p>based in 🇸🇬, final year computer science at the national university of singapore and passionate about building all things tech and aesthetics.</p>
 <p>here, i build toy projects for things i'm interested in. </p>
 
+<h3>github liveviewer</h3>
+<p>
+  <img src="https://github.wilsonsoon.workers.dev/favicon.svg" width="18" height="18" align="center" alt="" />&nbsp;&nbsp;<a href="https://github.wilsonsoon.workers.dev/">repository board</a>
+</p>
+
 <h3>reach me</h3>
 <p><img src="assets/email.svg" width="20" height="20" align="center" alt="Email" />&nbsp;&nbsp;<a href="mailto:wilionsoon2010@gmail.com">wilionsoon2010@gmail.com</a><br />
 <img src="assets/website.svg" width="20" height="20" align="center" alt="Personal website" />&nbsp;&nbsp;<a href="https://portfolio.wilsonsoon.workers.dev/">personal website</a><br />
 <img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp;&nbsp;<a href="https://x.com/wilsonsfh_">x</a><br />
 <img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wilsonsfh/">linkedin</a></p>
-<h3>github liveviewer</h3>
-<a href="https://github.wilsonsoon.workers.dev/"><img src="https://github.wilsonsoon.workers.dev/favicon.svg" width="18" height="18" align="center" alt="" /> repository board</a>
 </td>
 </tr>
 </table>
-
-
