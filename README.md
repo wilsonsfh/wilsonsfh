@@ -1,7 +1,12 @@
 <table>
 <tr>
 <td valign="top">
-<pre><code>****************#==#***++:-+********+==**
+<a href="https://portfolio.wilsonsoon.workers.dev/"><img src="assets/slime-and-mushroom.gif" width="168" height="88" alt="My portfolio's star-eyed slime and orange mushroom, hopping along together" /></a>
+<h2>hi! i'm wilson 👋</h2>
+<p>based in 🇸🇬, final year computer science at the national university of singapore and passionate about building all things tech and aesthetics.</p>
+<p>here, i build toy projects for things i'm interested in.</p>
+
+<pre style="font-size: 1.2em; line-height: 1.2; margin: 16px 0;"><code>****************#==#***++:-+********+==**
 ************+##%%###+*+%*+=-+*******+-+**
 ************##%%#*+***%%#%#*#*******+-+**
 *************%%#+*#+=-+*##%###******+-+**
@@ -29,12 +34,6 @@
 %##%%#==#***==*#%%%###%@%##*##****++=+=++
 #*%%%%:=-=*+-=+%*%*###@@#####*****++=+==+
 ##%@@@@%%%*=:++%#%###%@%#####****+++====+</code></pre>
-</td>
-<td valign="top">
-<a href="https://portfolio.wilsonsoon.workers.dev/"><img src="assets/slime-and-mushroom.gif" width="168" height="88" alt="My portfolio's star-eyed slime and orange mushroom, hopping along together" /></a>
-<h2>hi! i'm wilson 👋</h2>
-<p>based in 🇸🇬, final year computer science at the national university of singapore and passionate about building all things tech and aesthetics.</p>
-<p>here, i build toy projects for things i'm interested in. </p>
 
 <h3>github liveviewer</h3>
 <p>
