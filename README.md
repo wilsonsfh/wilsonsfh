@@ -42,7 +42,7 @@
 <img src="assets/x.png" width="20" height="20" align="center" alt="X" />&nbsp;&nbsp;<a href="https://x.com/wilsonsfh_">x</a><br />
 <img src="assets/linkedin.png" width="20" height="20" align="center" alt="LinkedIn" />&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wilsonsfh/">linkedin</a></p>
 <h3>github liveviewer</h3>
-<a href="https://github.wilsonsoon.workers.dev/">⌕ repository board</a>
+<a href="https://github.wilsonsoon.workers.dev/"><img src="https://github.wilsonsoon.workers.dev/favicon.svg" width="18" height="18" align="center" alt="" /> repository board</a>
 </td>
 </tr>
 </table>
